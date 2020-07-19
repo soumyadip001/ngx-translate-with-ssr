@@ -1,0 +1,14 @@
+{
+    "compA": {
+        "title": "This is our Component A",
+        "greeting": "My Name is {{name}}",
+        "description": "This is a sample description for our component A. This is just to test that it is rendering a really long string from the respective json file."
+    },
+    "compB": {
+        "title": "This is our Component B",
+        "description": "This is a sample description for our component B. This is just to test that it is rendering a really long string from the respective json file."
+    },
+    "chooseLang": {
+        "helper": "Switch Language"
+    }
+}
