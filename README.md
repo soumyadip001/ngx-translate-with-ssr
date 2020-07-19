@@ -21,10 +21,13 @@ build - `npm run build:ssr` and serve - `npm run serve:ssr`
 
 ngx-translate
 `npm install @ngx-translate/core @ngx-translate/http-loader --save`
+
 cache implementaion
 `npm install ngx-translate-cache --save`
+
 added SSR
 `ng add @nguniversal/express-engine --clientProject ssr-with-ngx`
+
 used the below helper to switch between client and server
 `isPlatformBrowser(this.platform)`
 
