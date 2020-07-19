@@ -14,7 +14,8 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-This project uses SSR with Angular Universal 
+This project uses SSR with Angular Universal
+
 build - `npm run build:ssr` and serve - `npm run serve:ssr`
 
 ## Dependencies
@@ -49,5 +50,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
 Awesome article - https://indepth.dev/implementing-multi-language-angular-applications-rendered-on-server/
+
 Also check - https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-angular8-app-with-ngx-translate
